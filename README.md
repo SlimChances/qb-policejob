@@ -1,5 +1,5 @@
 # qb-policejob
-Police Job for QB-Core Framework :police_officer:
+Police Job for QB-Core Framework edited with player owned police cars :police_officer:
 
 # License
 
